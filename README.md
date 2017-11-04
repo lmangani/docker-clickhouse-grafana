@@ -12,8 +12,12 @@ Custom Docker container + compose providing:
 #### Table Example
 ![image](https://user-images.githubusercontent.com/1423657/32409937-5d0ce874-c1b6-11e7-8f39-f333d47eb817.png)
 
-##### Examples
+#### Pie Example
+![image](https://user-images.githubusercontent.com/1423657/32410028-19c33b66-c1b8-11e7-85a3-4e92b2c87c90.png)
+
+##### More Examples
 Full Examples are available on the project [wiki](https://github.com/lmangani/docker-clickhouse-grafana/wiki)
+
 
 ## Docker Hub Image
 ```
