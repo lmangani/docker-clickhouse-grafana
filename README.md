@@ -6,15 +6,14 @@ Custom Docker container + compose providing:
 
 ![image](https://user-images.githubusercontent.com/1423657/32409700-ef67af3e-c1b0-11e7-80d6-cf75172f9f38.png)
 
-##### Datasource Preset
-![image](https://user-images.githubusercontent.com/1423657/32407391-5beaf81a-c188-11e7-948c-f0bbdc98ae44.png)
-
 #### Chart Example
-![image](https://user-images.githubusercontent.com/1423657/32408830-df515e58-c19f-11e7-856c-e8984f008cbf.png)
+![image](https://user-images.githubusercontent.com/1423657/32409943-84bb92e4-c1b6-11e7-9a79-659e26bac45f.png)
 
 #### Table Example
-![image](https://user-images.githubusercontent.com/1423657/32408387-2f6f7e96-c197-11e7-9cf4-62fb70c59c3d.png)
+![image](https://user-images.githubusercontent.com/1423657/32409937-5d0ce874-c1b6-11e7-8f39-f333d47eb817.png)
 
+##### Examples
+Full Examples are available on the project [wiki](https://github.com/lmangani/docker-clickhouse-grafana/wiki)
 
 ## Docker Hub Image
 ```
