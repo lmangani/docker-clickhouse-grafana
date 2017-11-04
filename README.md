@@ -4,7 +4,9 @@ Custom Docker container + compose providing:
 * [Clickhouse](https://github.com/yandex/ClickHouse/) Database _(latest)_
 * [Grafana](https://github.com/grafana/grafana) w/ autoprovisioned [Clickhouse Datasource](https://github.com/Vertamedia/clickhouse-grafana) _(latest)_
 
-##### Datasource
+![image](https://user-images.githubusercontent.com/1423657/32408875-ae60fd2a-c1a0-11e7-8334-326a6dc3c0d2.png)
+
+##### Datasource Preset
 ![image](https://user-images.githubusercontent.com/1423657/32407391-5beaf81a-c188-11e7-948c-f0bbdc98ae44.png)
 
 #### Chart Example
@@ -31,3 +33,5 @@ cd docker-clickhouse-grafana
 
 docker build -t qxip/clickhouse-grafana:local .
 ```
+##### Credits
+This bundle lives thanks to the Vertamedia [clickhouse-grafana](https://github.com/Vertamedia/clickhouse-grafana) datasource plugin
