@@ -7,6 +7,9 @@ Custom Docker container + compose providing:
 ##### Datasource
 ![image](https://user-images.githubusercontent.com/1423657/32407391-5beaf81a-c188-11e7-948c-f0bbdc98ae44.png)
 
+#### Chart Example
+![image](https://user-images.githubusercontent.com/1423657/32408830-df515e58-c19f-11e7-856c-e8984f008cbf.png)
+
 #### Table Example
 ![image](https://user-images.githubusercontent.com/1423657/32408387-2f6f7e96-c197-11e7-9cf4-62fb70c59c3d.png)
 
