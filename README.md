@@ -4,7 +4,7 @@ Custom Docker container + compose providing:
 * [Clickhouse](https://github.com/yandex/ClickHouse/) Database _(latest)_
 * [Grafana](https://github.com/grafana/grafana) w/ autoprovisioned [Clickhouse Datasource](https://github.com/Vertamedia/clickhouse-grafana) _(latest)_
 
-![image](https://user-images.githubusercontent.com/1423657/32408875-ae60fd2a-c1a0-11e7-8334-326a6dc3c0d2.png)
+![image](https://user-images.githubusercontent.com/1423657/32409700-ef67af3e-c1b0-11e7-80d6-cf75172f9f38.png)
 
 ##### Datasource Preset
 ![image](https://user-images.githubusercontent.com/1423657/32407391-5beaf81a-c188-11e7-948c-f0bbdc98ae44.png)
