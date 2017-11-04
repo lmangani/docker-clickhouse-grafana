@@ -1,4 +1,4 @@
-# ClickHouse-Grafana
+# :mag_right: ClickHouse-Grafana
 
 Custom Docker container + compose providing:
 * [Clickhouse](https://github.com/yandex/ClickHouse/) Database _(latest)_
