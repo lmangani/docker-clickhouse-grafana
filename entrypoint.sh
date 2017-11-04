@@ -1,7 +1,9 @@
- #!/bin/bash
- 
+#!/bin/bash
 ./run.sh "${@}" &
-timeout 10 bash -c "until </dev/tcp/localhost/3000; do sleep 1; done"
+
+until $(curl --output /dev/null --silent --head --fail http://localhost:3000); do
+    sleep 5
+done
 
 curl -s -H "Content-Type: application/json" \
     -XPOST "http://$GF_SECURITY_ADMIN_USER:$GF_SECURITY_ADMIN_PASSWORD@localhost:3000/api/datasources" \

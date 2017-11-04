@@ -1,2 +1,11 @@
-# docker-clickhouse-grafata
-Baseline Compose for Clickhouse + Grafana
+# clickhouse-grafana
+
+Custom Docker Container providing:
+* Clickhouse Database (latest)
+* Grafana w/ autoprovisioned Clickhouse Datasource (latest)
+
+## Usage
+```
+docker-compose up -d
+```
+
