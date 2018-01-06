@@ -1,5 +1,7 @@
 # :mag_right: ClickHouse-Grafana
 
+[![Codefresh build status]( https://g.codefresh.io/api/badges/build?repoOwner=lmangani&repoName=docker-clickhouse-grafana&branch=master&pipelineName=docker-clickhouse-grafana&accountName=lmangani&type=cf-1)]( https://g.codefresh.io/repositories/lmangani/docker-clickhouse-grafana/builds?filter=trigger:build;branch:master;service:59fdf001a13744000180f5f7~docker-clickhouse-grafana) <img src="https://img.shields.io/docker/pulls/qxip/clickhouse-grafana.svg"/> 
+
 Custom Docker container + compose providing:
 * [Clickhouse](https://github.com/yandex/ClickHouse/) Database _(latest)_
 * [Grafana](https://github.com/grafana/grafana) w/ autoprovisioned [Clickhouse Datasource](https://github.com/Vertamedia/clickhouse-grafana) _(latest)_
